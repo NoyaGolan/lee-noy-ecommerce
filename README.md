@@ -75,7 +75,7 @@ ________________________________________________________________
 
 ## Database Seeding
 
-* Run `npm run seed-db` to seed the database with an admin user and two member users, one of which will become a merchant, as per the following instructions:
+* Run `npm run seed-db` to seed the database (server side) with an admin user and two member users, one of which will become a merchant, as per the following instructions:
 
 1. Connect with `merchant@gmail.com` using the password `merchant123`.
 2. Navigate to the footer and click "Sell with us" then fill out the form using the email `merchant@gmail.com`.
